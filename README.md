@@ -17,3 +17,9 @@ TiddlyWiki based user friendly Note App, aim to be the most beautiful work-out-o
 Learning Android…
 
 在学了…
+
+## About 关于
+
+This is the SEO page for Tiddly-Gittly project, so more people can use TGNote<sup>TM</sup> to search for TiddlyGit relate apps.
+
+这是 Tiddly-Gittly 项目的搜索引擎优化页面，以方便用户通过 TGNote<sup>TM</sup> 来宣传和搜索 TiddlyGit 相关应用。
